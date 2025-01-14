@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=YourStrategy
+comment1.params=
+comment1.target=int\ NextMove()
+comment2.params=marbles
+comment2.target=int\ NextMove(int)
+numComments=3

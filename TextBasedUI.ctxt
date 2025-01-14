@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TextBasedUI
+comment1.params=
+comment1.target=TextBasedUI()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ startGame()
+comment3.params=
+comment3.target=void\ displayMenu()
+comment4.params=
+comment4.target=void\ makeMove()
+comment4.text=\r\n\ Handle\ making\ a\ move\ for\ the\ human\ or\ computer\ player\r\n
+comment5.params=player
+comment5.target=void\ assignMoveFrom(Player)
+comment6.params=move
+comment6.target=void\ storeMove(int)
+comment7.params=moveList
+comment7.target=void\ registerMove(java.util.ArrayList)
+comment8.params=
+comment8.target=void\ displayMarbles()
+comment9.params=
+comment9.target=void\ announceWinner()
+numComments=11
